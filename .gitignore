@@ -39,3 +39,4 @@ out/
 ### Data bundle ###
 src/main/resources/secure-connect-springbootdemo.zip
 src/main/resources/GeneratedToken.csv
+
